@@ -7,4 +7,4 @@ Please use [this link](https://drive.google.com/file/d/1F_FirK_UB-kkZPqriWq3zrME
 
 # Repo Structure
 
-This repository showcases the three main parts I had to develop for the application: the Jupyter notebook where I developed the model, a folder containing the Flask backend, and a folder containing the Flutter frontend.
+This repository showcases the three main parts I had to develop for the application: the Jupyter notebook (in Google Colab) where I developed the model, a folder containing the Flask backend, and a folder containing the Flutter frontend.
